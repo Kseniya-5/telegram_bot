@@ -123,5 +123,7 @@ handlers.py - файл, который представляет собой ре�
 ## 14. Деплой бота на онлайн-сервер на render.com
 ![image](https://github.com/user-attachments/assets/bb7e6f0e-ed18-412f-8a31-3a0fff1cb650)
 ![image](https://github.com/user-attachments/assets/fa44743c-ccae-42ea-b1cc-8493d88f49f1)
+![image](https://github.com/user-attachments/assets/45dc8fe7-ff53-4fc3-b31e-a2233a096343)
+
 
 
