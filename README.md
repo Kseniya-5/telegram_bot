@@ -41,10 +41,50 @@
 Если еще раз нажать на эту кнопку, то калории будут суммироваться
 
 ![image](https://github.com/user-attachments/assets/93c8e9fd-fa72-4554-ab24-12c20e87853b)
+![image](https://github.com/user-attachments/assets/29673dbc-a92b-4424-b09e-cc96b8c96fba)
 
 ## 8. Перейдем к кнопке "Тренировка"
 Название тренировки можно ввести только на английском, есть ограничения на время.
 
+![image](https://github.com/user-attachments/assets/35c847f9-77b4-4a8c-b50f-abf7600bd1fe)
+
+Если еще раз нажать на эту кнопку, то дополнительная вода и сожженные калории будут суммироваться
+
+![image](https://github.com/user-attachments/assets/95237b5d-7497-4851-8fd1-07e0569e02c5)
+
+## 9. Еще раз посмотрим на профиль
+В нем данные изменились
+
+![image](https://github.com/user-attachments/assets/bfe2aa5d-fcc1-472d-8c2d-3d076534a2f8)
+
+
+## 10. Еще зайдем в раздел "Вода"
+![image](https://github.com/user-attachments/assets/378a1875-2c85-4633-bb5e-3f9cfbb8abc9)
+
+После записи трениировок наши данные изменились. Теперь появилось сообщение о дополнительном количестве воды, которое нужно выпить
+
+## 11. Посмотрим прогресс
+
+![image](https://github.com/user-attachments/assets/5d7c30fe-c0e2-4d46-b1a0-4b401fd4e44c)
+![image](https://github.com/user-attachments/assets/af1903b3-bd53-4fa7-824a-b45c6b318423)
+
+## 12. Если заново нажать "Создать профиль", то мы начнем с чистого листа
+
+![image](https://github.com/user-attachments/assets/9d7d97a5-f868-47f5-9218-9c8cd2e4d05b)
+![image](https://github.com/user-attachments/assets/afc7c2c3-d116-43d6-b797-0a8e601652b9)
+
+Если Выпить больше рассчитанной нормы, то появится предупреждение
+
+![image](https://github.com/user-attachments/assets/51cb605d-64ba-4975-95cd-8fea2eb330c7)
+
+Если выпить норму, то появится другое сообщение
+
+![image](https://github.com/user-attachments/assets/d8e00a5b-0702-4a79-8628-7443e4d38033)
+
+Теперь посмотрим какие графики полоучатся, если потраченных калорий будет больше съеденных
+
+![image](https://github.com/user-attachments/assets/c371aa1b-592d-43c6-b428-e02edb463d0c)
+![image](https://github.com/user-attachments/assets/78fdfb51-75e3-4ade-8175-7b362967ef01)
 
 
 
