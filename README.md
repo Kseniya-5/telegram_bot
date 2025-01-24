@@ -1,5 +1,18 @@
 # Домашняя работа №2. Telegram-бот для расчёта нормы воды, калорий и трекинга активности
 @HW2_ConverterBot
+
+## Описание файлов
+bot.py - основной файл (точка входа в программу).
+
+config.py - файл конфигурации, который загружает переменные окружения позваляя сохранить конфиденциальные данные (такие как токены и API-ключи) вне кода.
+
+states.py - файл определяет классы состояний для управления стадиями взаимодействия пользователей с Telegram ботом.
+
+middlewarea.py - файл, который определяет промежуточное ПО для логирования входящих сообщений в Telegram боте
+
+handlers.py - файл, который представляет собой реализацию логики Telegram бота на основе библиотеки aiogram, который служит персональным фитнес-помощником, позволяя пользователям создавать профили, отслеживать потребление воды и калорий, получать информацию о тренировках и прогрессе, а также взаимодействовать с API погоды и калорий через инлайн-кнопки и команды.
+
+
 ## 1. Начало работы бота
 ![image](https://github.com/user-attachments/assets/3861ba02-4b04-45d3-b924-4c7879754d9d)
 
@@ -81,10 +94,29 @@
 
 ![image](https://github.com/user-attachments/assets/d8e00a5b-0702-4a79-8628-7443e4d38033)
 
-Теперь посмотрим какие графики полоучатся, если потраченных калорий будет больше съеденных
+Теперь посмотрим какие графики полчучатся, если потраченных калорий будет больше съеденных
 
 ![image](https://github.com/user-attachments/assets/c371aa1b-592d-43c6-b428-e02edb463d0c)
-![image](https://github.com/user-attachments/assets/78fdfb51-75e3-4ade-8175-7b362967ef01)
+![image](https://github.com/user-attachments/assets/03d097cd-67c2-43ad-ad4d-d2060348b3ed)
+![image](https://github.com/user-attachments/assets/fda7e0ff-719f-42fc-8d06-cb3e636dafa9)
+![image](https://github.com/user-attachments/assets/b1408873-f5ad-4e13-8ab8-c39b83b81600)
 
+Теперь посмотрим какие графики полчучатся, если съеденных калорий будет больше
+
+![image](https://github.com/user-attachments/assets/37c4c168-faef-4577-a690-e94dda2f9a68)
+![image](https://github.com/user-attachments/assets/01d288d5-6e0c-4797-a11e-7e58c7c9238b)
+![image](https://github.com/user-attachments/assets/a4ac7e87-24a9-4786-a64e-219705b344ac)
+![image](https://github.com/user-attachments/assets/583fd15c-2530-4505-8246-1679c121bd1b)
+![image](https://github.com/user-attachments/assets/ecff4f99-e9c3-426c-983c-aafe5fedebd9)
+![image](https://github.com/user-attachments/assets/02cedca6-97aa-46b1-ad1d-21aa00faedd7)
+
+## 13. API в коде
+1. Реализуцию API для запрашивания данных о погоде можно посмотреть в файле handlers.py (256)
+2. Реализуцию API для запрашивания данных о еде можно посмотреть в файле handlers.py (398)
+3. Реализуцию API для запрашивания данных о тренировках можно посмотреть в файле handlers.py (490)
+
+## 14. Деплой бота на онлайн-сервер на render.com
+![image](https://github.com/user-attachments/assets/bb7e6f0e-ed18-412f-8a31-3a0fff1cb650)
+![image](https://github.com/user-attachments/assets/fa44743c-ccae-42ea-b1cc-8493d88f49f1)
 
 
